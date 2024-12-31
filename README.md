@@ -26,6 +26,6 @@
 - Exploring AI and machine learning
 
 ## 📫 Contact
-- **Email**: nihalkappungal30@gmail.com
+- **Email**: nihal69k@gmail.com
 
 Feel free to reach out if you have any questions or collaboration opportunities!
