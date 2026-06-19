@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Nihal K.
 
 👋 Hi, I'm Nihal K., a passionate full-stack developer with 2 years of experience in web development. I have a strong background in both front-end and back-end technologies and a keen interest in design.
