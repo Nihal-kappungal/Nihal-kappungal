@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="100%">
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Nihal K.
 
